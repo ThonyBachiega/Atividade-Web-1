@@ -717,6 +717,8 @@ aside{
 /* Button helpers */
 .btn--success { background-color: var(--color-white); color: var(--color--sucess); border: 1px solid var(--color-success); }
 .btn--danger { background-color: var(--color-white); color: var(--color-error); border: 1px solid var(--color-error); }
+
+
 .btn--outline { background-color: var(--color-white); color: var(--color-sucess); border: 1px solid var(--color-success); }
 
 .placeholder { background-color: var(--color-gray-100); border: 1px dashed var(--color-gray-300); border-radius: var(--border-radius-md); height: 120px; }
