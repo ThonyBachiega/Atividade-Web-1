@@ -715,9 +715,9 @@ aside{
 .table__actions { display: flex; gap: var(--space-sm); justify-content: flex-end; }
 
 /* Button helpers */
-.btn--success { background-color: var(--color-success); color: var(--color-white); border: 1px solid var(--color-success); }
+.btn--success { background-color: var(--color-white); color: var(--color--sucess); border: 1px solid var(--color-success); }
 .btn--danger { background-color: var(--color-white); color: var(--color-error); border: 1px solid var(--color-error); }
-.btn--outline { background-color: var(--color-white); color: var(--color-primary); border: 1px solid var(--color-primary); }
+.btn--outline { background-color: var(--color-white); color: var(--color-sucess); border: 1px solid var(--color-success); }
 
 .placeholder { background-color: var(--color-gray-100); border: 1px dashed var(--color-gray-300); border-radius: var(--border-radius-md); height: 120px; }
 
